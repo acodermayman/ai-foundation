@@ -1,3 +1,55 @@
 numpy>=1.24.0
 jupyter
 ipykernel
+# =============== Core Machine Learning Libraries ===============
+# Compatible with Python 3.10
+
+# Numerical computing and data manipulation
+numpy==1.26.4
+pandas==2.2.2
+
+# Machine learning toolkit
+scikit-learn==1.5.0
+
+# =============== Data Visualization ===============
+
+# Plotting and graphing
+matplotlib==3.9.0
+seaborn==0.13.2
+
+# Interactive visualizations
+plotly==5.22.0
+
+# =============== Deep Learning Frameworks (Optional) ===============
+# Uncomment the ones you need. These versions are compatible.
+
+# General purpose deep learning
+# tensorflow==2.16.1
+# torch==2.3.1
+# torchvision==0.18.1
+# torchaudio==2.3.1
+
+# High-level API for TensorFlow
+# keras==3.3.3
+
+# =============== Other Useful Libraries ===============
+
+# Interactive computing environment
+# jupyterlab==4.2.2
+# notebook==7.2.1
+
+# # Display progress bars
+# tqdm==4.66.4
+
+# # Image processing
+# Pillow==10.3.0
+# opencv-python-headless==4.9.0.80
+
+# # For handling class imbalance
+# imbalanced-learn==0.12.3
+
+# # Model explainability
+# shap==0.45.1
+
+ydata-profiling==4.17.0
+lazypredict==0.2.16
